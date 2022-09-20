@@ -1,4 +1,4 @@
-///to check Pallindrome Integer...! Ex.121, 868
+///to check Whether a three digit Number is Pallindrome Integer or not...! Ex.121, 868
 
 #include<stdio.h>
 #include<conio.h>
